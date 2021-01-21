@@ -1,0 +1,17 @@
+{
+    "name": "successgo/workerman-app",
+    "description": "workerman application make easy",
+    "type": "project",
+    "require": {
+        "workerman/workerman": "4.0.18"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Success Go",
+            "email": "success.go@gaodacheng.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
