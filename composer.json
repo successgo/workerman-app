@@ -3,6 +3,8 @@
     "description": "workerman application make easy",
     "type": "project",
     "require": {
+        "php": ">=7.3",
+        "ext-json": "*",
         "workerman/workerman": "4.0.18"
     },
     "license": "MIT",
